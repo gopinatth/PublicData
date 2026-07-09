@@ -1,0 +1,146 @@
+Mindtree:
+
+
+First-Citizens Bank & Trust Company
+
+340 Mt. Kemble Ave, , Morristown, NJ, US, 07960
+
+ 
+
+Software Developers
+
+ 
+
+ 
+
+Project Objective
+
+ 
+
+Equipment finance is a division of First-Citizens Bank & Trust Company and carries out tasks of developing, maintaining and supporting number of applications which interact with third party vendor applications which provide services like credit check, maintain the Credit Application Origination Systems, Account Payable Interface system(API System) provides a detailed reporting to vendors of funds remitted for assets, Asset Management Global(AMG) that manages the assets which are returned by vendors when lease and contracts end and also facilitate the auction process for the leased assets, Managed File Transfer System (MFT) manages secure transfer of data to the various banks and vendors (which includes ACH payment files, employee information, DTCC reporting, trading data, asset information, contract details, sales reports etc.). MFT system encrypts and decrypts, digitally signs the files and transfer/receives the files to internal and external systems.
+
+As an ESS (Enterprise Solution and Services) team at First-Citizens Bank & Trust Company, we focused on building and maintaining the services for the Equipment Finance business across the USA region. Other software components across different business lines interact with our ESS software components like Advisory service, ESF services & B2B services.
+
+ 
+
+Tools & Technologies*
+
+Visual studio, C#, ASP.NET Web API, Windows Communication Foundation, Javascript, Angular, XML, HTML, ASP.NET, Microsoft SQL Server, Postman, SOAPUI, Microsoft Office Suite, Azure DevOps, Visual Studio Code, Incident management tool, Internet Information Service, Control-M
+
+ 
+
+Job Duty: 1
+
+Gathering & understanding the business requirements and Translate technical specifications for analysis.
+
+Job Duty Description(10%)
+
+Gathering end user business functionalities, requirements and prepare design documents for development with data design, Architecture and workflows. Clarify the business problem and confirm information with stakeholders. Analyze the requirement and identifying the vision and their requirements. Document business objectives and problem and confirm details with appropriate person.
+
+ 
+
+Why at least a Bachelor’s Degree in Computer Science or a related field is Required ?*
+
+In order to perform the highly specialized and complex job duties of the position, a Senior Developer must possess an understanding of various business processes, computer system and Data Knowledge as well as various types of system architecture and software programming. Thus, a Senior Developer must possess at least a bachelor's degree in computer science or a related field is required.
+
+ 
+
+Job Duty: 2
+
+Job Duty Name*
+
+Technical Designing, Problem solving and technical support to customers.
+
+Job Duty Desciption*(20%)
+
+Designing, Developing, & Maintaining Applications with Asp.Net WebAPI, MS SQL Server, Angular framework, .Net, C#, IIS, Azure DevOps, Web services supported across various Platforms & Environments.
+
+ 
+
+ 
+
+Job Duty: 3(20%)
+
+Job Duty Name*
+
+Design, development & Execution
+
+Job Duty Desciption*
+
+Develop responsive applications that work and render on desktop, tablets and mobile devices. Creating reusable components for application. Writing documentation to describe program development, logic, coding and corrections.
+
+ 
+
+Job Duty: 4(15%)
+
+Automation of Manual activities
+
+Job Duty Desciption*
+
+Automation of manual activities to improve the efficiency. Identifying manual time taking, day to day activities and automating the manual activities to decrease the repeated efforts.
+
+ 
+
+ 
+
+ 
+
+Job Duty: 5(10%)
+
+Job Duty Name*
+
+Review code and unit test case documents.
+
+Job Duty Desciption*
+
+Reviewing the unit test cases and maintain all data evidence reports with functional scenarios in the unit test case document. Maintaining checklist to make sure all the code and unit test case adhere to the requirements. Maintaining Version control of the document.
+
+ 
+
+Job Duty: 6(10%)
+
+Job Duty Name*
+
+Web Application Optimization to enhance performance and efficiency associated for retrieval of data
+
+Job Duty Desciption*
+
+Conduct user training, performing periodic system updates, interacting with users for future enhancements. Perform object-oriented analysis and design (OOAD), applying industry best practices and techniques. Analyzing the data captured from database. Find out performance issues and recommend best practice to mitigate performance related issues in data retrieval or HTML generation. Solving Vulnerability & Accessibility Testing related issues.
+
+ 
+
+ 
+
+Job Duty: 7(5%)
+
+Job Duty Name*
+
+Client interaction, meetings and task assignments.
+
+Job Duty Desciption*
+
+Coordinate calls, meetings, grooming sessions, and communications between customers and project team throughout the project implementation phase. Scrum Meetings, Status Reporting, Handling Escalations.
+
+ 
+
+Job Duty: 8(5%)
+
+Job Duty Name*
+
+Responsible for managing the release of code in UAT and Production environments.
+
+Job Duty Desciption*
+
+Responsible for setup, configuring, deploying the applications on Internet Information Services to UAT (User Acceptance Test) and production environments.
+
+ 
+
+Job Duty: 9(5%)
+
+Job Duty Name*
+
+Responsible for day-to-day activities that happen in the team
+
+Job Duty Desciption*
+
+Production Support & Root Cause Analysis for Production Live Servers
