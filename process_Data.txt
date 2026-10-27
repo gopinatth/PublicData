@@ -1,0 +1,69 @@
+1.	Requires advanced experience in designing, developing, and integrating Advisory automated notification systems, including implementing Equipment Finance business workflow triggers based on application status changes and integrating email and fax communication services for automated notification delivery.
+2.	Requires experience with ASP.NET Core Blazor with advance experience in Telerik UI for Blazor, reusable Razor component development, advanced Grid customization, RESTful API integration, server-side data processing, virtualization, application performance optimization, authentication, role-based authorization, and business rule validation.
+3.	Requires advanced experience with Angular 21, TypeScript, NgRx SignalStore, Angular Signals, RxJS, reactive state management, computed signals, asynchronous state processing, state mutation techniques, Kendo UI for Angular component customization and ESLint-based static code analysis and coding standards enforcement.
+4.	Requires experience with MuleSoft Anypoint Studio, Mule application flows and connectors, DataWeave transformations, RESTful API integration, exception handling, environment-specific application configuration, CloudHub deployment, and Anypoint Runtime Manager.
+5.	Requires experience with ActivePDF Toolkit, third-party PDF library integration, PDF document conversion, and application-based document processing.
+6.	Requires experience in designing, developing, and maintaining enterprise data integration solutions using Microsoft SQL Server Integration Services (SSIS); implementing ETL processes using SSIS Control Flow and Data Flow components; developing SQL queries and stored procedures for data processing; implementing package-level error handling and execution logging; scheduling automated package execution using SQL Server Agent; and optimizing SSIS package performance to improve data processing efficiency.
+7.	Requires experience with Microsoft SQL Server Reporting Services (SSRS) for developing and maintaining enterprise reporting solutions and supporting application-specific reporting requirements.
+8.	Requires experience in Document generation processing and maintaining PDF document templates using Adobe Experience Manager (AEM); implementing template-based document generation and PDF conversion functionality; and configuring document templates to support enterprise application reporting and document processing requirements.
+9.	Requires experience in developing and configuring advanced object-to-object mapping solutions using AutoMapper in Microsoft .NET (C#) applications; implementing reusable mapping profiles and CreateMap configurations; performing nested object mapping, hierarchical data flattening, and collection transformations; developing custom value resolvers and mapping logic to consolidate multiple source objects into destination models; implementing conditional mapping, null-value handling, and bidirectional transformations using ReverseMap; and validating mapping configurations to ensure accurate and consistent data transformation across application components.
+10.	Requires advanced experience in tax calculation processes using applicable tax rate factors and geographic codes (Geo Codes); applying location-based tax calculation rules; and processing tax-related information based on geographic classifications, rate factors, and business transaction details within enterprise financial applications.
+11.	
+### Proposed PERM Special Skill Requirements
+
+**1. Automated Notification Systems**
+
+Requires experience designing, developing, and integrating automated notification systems, including implementing event-driven business workflows, application status-based notification triggers, and integration with email and fax communication services.
+
+**2. ASP.NET Core Blazor Development**
+
+Requires experience developing enterprise web applications using ASP.NET Core Blazor, including reusable Razor components, UI component customization, RESTful API integration, server-side data processing, application performance optimization, authentication, role-based authorization, and business rule validation.
+
+**3. Angular and TypeScript Development**
+
+Requires experience developing enterprise web applications using Angular and TypeScript, including reactive state management, Angular Signals, RxJS, asynchronous data processing, component customization, and integration with enterprise UI libraries.
+
+**4. MuleSoft Integration Development**
+
+Requires experience developing and maintaining enterprise application integrations using MuleSoft Anypoint Platform, including application flows, connectors, DataWeave transformations, RESTful API integration, exception handling, environment-specific configuration, and CloudHub deployment.
+
+**5. PDF Document Processing**
+
+Requires experience integrating third-party PDF processing libraries with enterprise applications, including automated document conversion, PDF generation, and application-based document processing.
+
+**6. SQL Server Integration Services (SSIS)**
+
+Requires experience designing, developing, and maintaining ETL solutions using Microsoft SQL Server Integration Services (SSIS), including Control Flow and Data Flow components, SQL queries, stored procedures, error handling, execution logging, automated job scheduling, and performance optimization.
+
+**7. SQL Server Reporting Services (SSRS)**
+
+Requires experience developing and maintaining enterprise reporting solutions using Microsoft SQL Server Reporting Services (SSRS), including report development and integration with enterprise applications.
+
+**8. Adobe Experience Manager (AEM)**
+
+Requires experience developing and maintaining document templates using Adobe Experience Manager (AEM), including template-based document generation, PDF conversion, and enterprise document processing.
+
+**9. AutoMapper and Object Mapping**
+
+Requires experience implementing object-to-object mapping solutions using AutoMapper in Microsoft .NET (C#) applications, including mapping profiles, nested object mapping, collection transformations, custom value resolvers, conditional mapping, bidirectional mapping, and mapping configuration validation.
+
+**10. Tax Calculation and Geographic-Based Business Rules**
+
+Requires experience implementing tax calculation processes within enterprise financial applications, including applicable tax rate factors, geographic codes, location-based tax calculation rules, and transaction-based tax processing.
+
+
+Final Version:
+1.	Requires strong experience with designing and developing enterprise web applications using ASP.NET Core Blazor, including reusable Razor components, UI component customization, RESTful API integration, server-side data processing, application performance optimization, authentication, role-based authorization, and business rule validation.	
+2.	 Requires strong experience developing enterprise web applications using Angular and TypeScript, Angular Signals, RxJS, NgRx, ESlint, asynchronous data processing, component customization, and integration with enterprise UI libraries.
+3.	Requires working experience in developing and maintaining enterprise application integrations using MuleSoft Anypoint Platform, including application flows, connectors, DataWeave transformations, RESTful API integration, exception handling, environment-specific configuration, and CloudHub deployment.
+4.	 Requires experience integrating third-party PDF processing libraries with enterprise applications, including automated document conversion, PDF generation, and application-based document processing.
+5.	Requires strong experience designing, developing, and maintaining solutions using Microsoft SQL Server Integration Services (SSIS), including Control Flow and Data Flow components, SQL queries, stored procedures, error handling, execution logging, automated job scheduling, and performance optimization.
+6.	Requires experience developing and maintaining enterprise reporting solutions using Microsoft SQL Server Reporting Services (SSRS), including report development and integration with enterprise applications.
+7.	Requires experience developing and maintaining document templates using Adobe Experience Manager (AEM), including template-based document generation, PDF conversion, and enterprise document processing.
+8.	Requires experience implementing object-to-object mapping solutions using AutoMapper in Microsoft .NET (C#) applications, including mapping profiles, nested object mapping, collection transformations, custom value resolvers, conditional mapping, and bidirectional mapping, and mapping configuration validation.
+9.	Requires experience implementing tax calculation processes within enterprise financial applications, including applicable tax rate factors, geographic codes, location-based tax calculation rules, and transaction-based tax processing.
+10.	Requires experience in Rail management system to manage Rail car asset and interfacing external shop application.
+11.	Requires experience in developing and maintaining enterprise equipment leasing applications, including integration with external vendor systems for lease application submissions, purchase order processing, funding requests, and receiving financial transaction data related to lease buyout quotes and payments.
+12.	Requires experience in designing and implementing enterprise application security mechanisms, including data encryption and decryption, custom authentication systems for external application users, and role-based access control with user role and permission management to enforce application authorization and secure access to protected resources.
+13.	Requires experience designing, developing, and integrating automated notification systems, including implementing event-driven business workflows, application status-based notification triggers, and integration with email and fax communication services.
+
