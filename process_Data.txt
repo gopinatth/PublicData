@@ -67,3 +67,24 @@ Final Version:
 12.	Requires experience in designing and implementing enterprise application security mechanisms, including data encryption and decryption, custom authentication systems for external application users, and role-based access control with user role and permission management to enforce application authorization and secure access to protected resources.
 13.	Requires experience designing, developing, and integrating automated notification systems, including implementing event-driven business workflows, application status-based notification triggers, and integration with email and fax communication services.
 
+
+
+
+Final:
+
+1	Requires experience with design, develop, and maintain web applications using ASP.NET MVC and C#, Entity Framework, following the SDLC and Agile practices.
+2	Requires experience with design and develop web applications using ASP.NET Core Blazor, Static server-side rendering (SSR), Interactive server, interactive WASM and Razor components.
+3	Requires experience with design develop enterprise web applications using Angular and TypeScript, Angular signals, RxJS, NgRx, ESlint, asynchronous data processing, component customization, and  integration with enterprise UI libraries.
+4	Requires experience in write  and optimize T-SQL queries, stored procedures, views, functions, and indexes in SQL Server to support application performance and data integrity
+5	Requires experience with design, build, and schedule SSIS packages for ETL, data migration, and data integration between internal and external systems.
+6	Require experience with develop, deploy, and maintain reports in SSRS using SQL Server Data Tools (SSDT) for business users and embed SSRS report in the web application.
+7	Requires experience to build user interfaces using Telerik UI for Blazor and Kendo UI for Angular (grids, forms, reports and data-binding components).
+8	Requires experience in design and develop APIs using MuleSoft (Anypoint Platform), including API-led connectivity, DataWeave transformations, error handling including runtime manager, API manager, exchange and design center.
+9	Requires experience with develop and manage asynchronous and reliable messaging between application components using Microsoft Message Queuing (MSMQ).
+10	Requires experience in Adobe Experience Manager (AEM) and Workbench for document conversion, document generation and content management solutions.
+11	Requires experience with ActivePDF Toolkit for image processing and document processing within the application workflow.
+12	Requires experience with AutoMapper for object-to-object mapping and Log4Net for application logging, exception handling, and diagnostics.
+13	Requires experience with Rail industry system for invoice processing and interfacing external shop application.
+14	Requires experience in real time integration with InfoLease Equipment finance system
+
+
